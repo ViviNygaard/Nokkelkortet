@@ -9,8 +9,8 @@ public abstract class Card {
 	   static long card = 1;
 	  
 	   public Card() {
-	       firstName = "Alex";
-	       lastName = "Mitti";
+	       firstName = "Jens";
+	       lastName = "Andersen";
 	       pin =1120;
 	       cardNumber = card;
 	       card++;
